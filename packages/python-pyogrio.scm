@@ -1,4 +1,4 @@
-(define-module (python-pyogrio)
+(define-module (packages python-pyogrio)
   #:use-module (guix)
   #:use-module ((guix licenses) #:prefix license:)
   #:use-module (gnu packages)
