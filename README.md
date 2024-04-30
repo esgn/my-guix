@@ -1,0 +1,2 @@
+# my-guix
+test channel
